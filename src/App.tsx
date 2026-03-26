@@ -190,7 +190,7 @@ function App() {
             <div className="relative w-64 h-64 md:w-80 md:h-80 xl:w-96 xl:h-96">
               <div className="absolute inset-0 bg-blue-600 rounded-3xl rotate-3 opacity-10"></div>
               <div className="absolute inset-0 bg-slate-900 rounded-3xl -rotate-3 transition-transform hover:rotate-0 duration-500 overflow-hidden shadow-xl">
-                <img alt="Darshan S Y" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500" src="./profilephoto.jpeg" />
+                <img alt="Darshan S Y" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500" src="/profilephoto.jpeg" />
               </div>
             </div>
           </div>
